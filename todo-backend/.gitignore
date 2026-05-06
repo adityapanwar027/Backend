@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+
+# Environment file (VERY IMPORTANT)
+.env
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# VS Code
+.vscode/
