@@ -1,2 +1,11 @@
 node_modules
 .env
+
+.DS_Store
+.cache
+.codex
+*.log
+
+.bash_history
+.CFUserTextEncoding
+.node_repl_history
